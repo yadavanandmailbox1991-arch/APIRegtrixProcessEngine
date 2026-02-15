@@ -1,0 +1,28 @@
+{
+  "name": "apiregtrixprocessengine",
+  "version": "1.0.0",
+  "description": "APIRegtrixProcessEngine",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavanandmailbox1991-arch/APIRegtrixProcessEngine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yadavanandmailbox1991-arch/APIRegtrixProcessEngine/issues"
+  },
+  "homepage": "https://github.com/yadavanandmailbox1991-arch/APIRegtrixProcessEngine#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "uuid": "^13.0.0"
+  }
+}
